@@ -1,0 +1,9 @@
+{
+  "name": "it-committee-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main":"bot_new.js" ,
+  "scripts": {
+    "start": "node bot.js"
+  }
+}

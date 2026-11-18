@@ -1,0 +1,46 @@
+{
+  "nextSeq": 1003,
+  "busyMode": false,
+  "submissions": [
+    {
+      "id": "1795018818532",
+      "trackingCode": "IT-1002",
+      "studentChatId": "7245411100",
+      "studentName": ". .",
+      "fileName": "رسالة_نصية",
+      "contentType": "ملخص",
+      "courseName": "مهارات اللغة العربية",
+      "acknowledged": true,
+      "replied": true,
+      "adminMessageIds": {
+        "5748925491": 443,
+        "7197527939": 444
+      },
+      "votes": {
+        "5748925491": "edit"
+      },
+      "createdAt": 1795018818532,
+      "escalated": true
+    },
+    {
+      "id": "1795000327327",
+      "trackingCode": "IT-1001",
+      "studentChatId": "120461368",
+      "studentName": "عبدالدايم المهلل",
+      "fileName": "سابع علوم جماداول.pdf",
+      "contentType": "ملخص",
+      "courseName": "برمجة حاسوب 2",
+      "acknowledged": true,
+      "replied": false,
+      "adminMessageIds": {
+        "5748925491": 419,
+        "7197527939": 420
+      },
+      "votes": {
+        "5748925491": "reject"
+      },
+      "createdAt": 1795000327327,
+      "escalated": false
+    }
+  ]
+}
